@@ -1,0 +1,19 @@
+Bases de datos relacionales (SQL) 
+______________________________________________________________________________________
+crear table
+CREATE TABLE nombre_de_la_tabla ( 
+    columna1 tipo_de_dato1,
+    columna2 tipo_de_dato2,
+    columna3 tipo_de_dato3,
+    ...
+);  //crea tabla en mi basedatos
+______________________________________________________________________________________________________
+Agregar columna al final de la tabla
+ALTER TABLE nombre_tabla
+ADD nombrenueva_columna VARCHAR(255);
+___________________________________________________________________________________
+como 
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+                                                            variables SQL
+varchar = cadena de texto
